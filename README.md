@@ -3,9 +3,8 @@ Data-Infra-Projects
 
 This is an attempt to list out all the interesting projects.
 
-| Project | license | 
-|---------|---------|
-
+TODO:
+Add links and licenses. 
 
 ##Abstractions
 1. RDD
@@ -16,89 +15,96 @@ This is an attempt to list out all the interesting projects.
 ##Distributed Coordination
 
 This are implementations/libraries to help write distributed applications which require some form of coordination.
+1. ZooKeeper
+2. etcd
+3. Serf (http://www.serfdom.io/)
+4. Doozer (https://github.com/ha/doozerd)
 
 ##Infrastructure Management
-Yarn
-Mesos
-OpenStack
-CloudStack
+1. Yarn
+2. Mesos
+3. OpenStack
+4. CloudStack
 
 ##Infrastrcuture Monitoring
-Nagios
+1. Nagios
 
 
 ##Infrastructure Helpers
-Auror
-Marathon
+1. Auror
+2. Marathon
+3. Cronos
 
 
 ##Virtualization
-LXC
-ZeroVM
-CoreOS
-KVM
-XEN
+1. LXC
+2. ZeroVM
+3. CoreOS
+4. KVM
+5. XEN
 
 ##Virtualization++
-Docker
-CloudFoundry
+1. Docker
+2. CloudFoundry
 
 ##Generalized Data Processing
-Hadoop
+1. Hadoop
+2. Spark
 
 ##Largescale ML
-MLBase (MLlib)
+1. MLBase (MLlib)
 
 ##pub-sub / messaging 
-Kafka
-RabbitMQ
-ZeroMQ
+1. Kafka
+2. RabbitMQ
+3. ZeroMQ
 
 ##Data Ingest
-Sqoop
-Flume
+1. Sqoop
+2. Flume
 
 
 ##Graph Processing
-GraphLab
-Giraph
+1. GraphLab
+2. Giraph
+3. Neo4j
 
 ## SQL Engines
-Hive
-Tez
-Impala
-Shark
+1. Hive
+2. Tez
+3. Impala
+4. Shark
 
 ##RealTime Processing (Time-constrained Processing)
 
 ##Stream Processing
-Storm
-Spark Streaming
-Samza
-Borealis (http://cs.brown.edu/research/borealis/public/)
+1. Storm
+2. Spark Streaming
+3. Samza
+4. Borealis (http://cs.brown.edu/research/borealis/public/)
 
 ##Security
 
 ##Performance Analysis
 
 ##Workflow engines/DAG-executors/Pipelines
-Oozie
-Luigi (https://github.com/spotify/luigi)
-Azkaban 
-Cascading 
-Hmake (https://code.google.com/p/hamake/)
+1. Oozie
+2. Luigi (https://github.com/spotify/luigi)
+3. Azkaban 
+4. Cascading 
+5. Hmake (https://code.google.com/p/hamake/)
 
 ##Configuration management 
-Chef
-Puppet
-Salt
-Ansible
+1. Chef
+2. Puppet
+3. Salt
+4. Ansible
 
 ##Search
-Lucene/Solr
-ElasticSearch
+1. Lucene/Solr
+2. ElasticSearch
 
 ## others
-Nutch - web crawler
+1. Nutch - web crawler
 
 
