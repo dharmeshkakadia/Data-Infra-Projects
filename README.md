@@ -25,13 +25,23 @@ This are implementations/libraries to help write distributed applications which 
 2. Mesos
 3. OpenStack
 4. CloudStack
+5. Ganeti
+
+##File Systems
+1. HDFS
+2. GlusterFS
+3. Riak(?)
+4. Swift
+5. Ceph
+6. QFS
 
 ##Infrastrcuture Monitoring
 1. Nagios
+2. Ganglia
 
 
 ##Infrastructure Helpers
-1. Auror
+1. Aurora
 2. Marathon
 3. Cronos
 
@@ -42,6 +52,7 @@ This are implementations/libraries to help write distributed applications which 
 3. CoreOS
 4. KVM
 5. XEN
+6. 
 
 ##Virtualization++
 1. Docker
