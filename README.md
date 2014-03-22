@@ -52,7 +52,7 @@ This are implementations/libraries to help write distributed applications which 
 3. CoreOS
 4. KVM
 5. XEN
-6. 
+6. Solaris Zones
 
 ##Virtualization++
 1. Docker
@@ -62,8 +62,9 @@ This are implementations/libraries to help write distributed applications which 
 1. Hadoop
 2. Spark
 
-##Largescale ML
+##Largescale Distributed ML
 1. MLBase (MLlib)
+2. Vowpal Wabbit (https://github.com/JohnLangford/vowpal_wabbit/)
 
 ##pub-sub / messaging 
 1. Kafka
@@ -85,6 +86,7 @@ This are implementations/libraries to help write distributed applications which 
 2. Tez
 3. Impala
 4. Shark
+5. Tajo (http://tajo.incubator.apache.org/)
 
 ##RealTime Processing (Time-constrained Processing)
 
