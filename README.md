@@ -15,6 +15,7 @@ Add links and licenses.
 ##Distributed Coordination
 
 This are implementations/libraries to help write distributed applications which require some form of coordination.
+
 1. ZooKeeper
 2. etcd
 3. Serf (http://www.serfdom.io/)
@@ -61,6 +62,7 @@ This are implementations/libraries to help write distributed applications which 
 ##Generalized Data Processing
 1. Hadoop
 2. Spark
+3. REEF (http://www.reef-project.org/)
 
 ##Largescale Distributed ML
 1. MLBase (MLlib)
