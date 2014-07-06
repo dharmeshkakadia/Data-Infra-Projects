@@ -63,7 +63,7 @@ This are implementations/libraries to help write distributed applications which 
 1. Hadoop
 2. Spark
 3. REEF (http://www.reef-project.org/)
-4. Flink (http://incubator.apache.org/projects/flink.html) (previously know as Stratosphere)
+4. Flink (http://flink.incubator.apache.org/) (previously know as Stratosphere)
 
 ##Largescale Distributed ML
 1. MLBase (MLlib)
