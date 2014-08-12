@@ -54,10 +54,12 @@ This are implementations/libraries to help write distributed applications which 
 4. KVM
 5. XEN
 6. Solaris Zones
+7. BSD Jails
 
 ##Virtualization++
 1. Docker
 2. CloudFoundry
+3. Redhat Project Atomic
 
 ##Generalized Data Processing
 1. Hadoop
@@ -115,6 +117,7 @@ This are implementations/libraries to help write distributed applications which 
 2. Puppet
 3. Salt
 4. Ansible
+5. Vagrant
 
 ##Search
 1. Lucene/Solr
