@@ -49,6 +49,10 @@ This are implementations/libraries to help write distributed applications which 
 * [Marathon](https://github.com/mesosphere/marathon)
 * [Cronos](https://github.com/airbnb/chronos)
 
+## MultiCloud/CrossCloud utilities
+* [Fog](http://fog.io/)
+* [Multistack](http://multistack.org/)
+* [jClouds](https://jclouds.apache.org/)
 
 ##Virtualization
 * LXC
