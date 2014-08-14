@@ -4,48 +4,50 @@ Data-Infra-Projects
 This is an attempt to list out all the interesting projects.
 
 TODO:
-Add links and licenses. 
+Add ~~links and~~ licenses. 
 
 ##Abstractions
-* RDD
-* MapReduce
-* BSP
+* [RDD](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
+* [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
+* [Bulk Synchronous Parallel - BSP](http://en.wikipedia.org/wiki/Bulk_synchronous_parallel)
 
 
 ##Distributed Coordination
 
 This are implementations/libraries to help write distributed applications which require some form of coordination.
 
-* ZooKeeper
-* etcd
-* Serf (http://www.serfdom.io/)
-* Doozer (https://github.com/ha/doozerd)
+* [ZooKeeper](zookeeper.apache.org)
+* [etcd](https://github.com/coreos/etcd)
+* [Serf](http://www.serfdom.io/)
+* [Doozer](https://github.com/ha/doozerd)
 
 ##Infrastructure Management
-* Yarn
-* Mesos
-* OpenStack
-* CloudStack
-* Ganeti
+* [Yarn](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)
+* [Mesos](http://mesos.apache.org)
+* [OpenStack](http://www.openstack.org/)
+* [CloudStack](http://cloudstack.apache.org/)
+* [Ganeti](https://code.google.com/p/ganeti/)
 
 ##File Systems
-* HDFS
-* GlusterFS
-* Riak(?)
-* Swift
-* Ceph
-* QFS
+* [HDFS](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html)
+* [GlusterFS](http://www.gluster.org/)
+* [Ceph](https://github.com/ceph/ceph)
+* [QFS](http://quantcast.github.io/qfs/)
+
+##Distribtued Databases
+* [Swift](https://github.com/openstack/swift)
+* [Riak](https://github.com/basho/riak)
 
 ##Infrastrcuture Logging/Monitoring
-* Nagios
-* Ganglia
-* Chukwa (https://chukwa.apache.org/)
-* Netflix Suro (https://github.com/Netflix/suro)
+* [Nagios](http://www.nagios.org/)
+* [Ganglia](http://ganglia.sourceforge.net/)
+* [Chukwa](https://chukwa.apache.org/)
+* [Netflix Suro](https://github.com/Netflix/suro)
 
 ##Infrastructure Helpers
-* Aurora
-* Marathon
-* Cronos
+* [Aurora](http://aurora.incubator.apache.org/)
+* [Marathon](https://github.com/mesosphere/marathon)
+* [Cronos](https://github.com/airbnb/chronos)
 
 
 ##Virtualization
