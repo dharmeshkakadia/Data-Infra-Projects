@@ -82,6 +82,8 @@ This are implementations/libraries to help write distributed applications which 
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/)
 * [Jubatus](http://jubat.us/en/)
 * [Mahout](https://mahout.apache.org/)
+* [h2o](http://0xdata.com/h2o/)
+* [Oryx](https://github.com/cloudera/oryx) and [Oryx 2.0](https://github.com/OryxProject/oryx)
 
 ##pub-sub / messaging 
 * [Kafka](http://kafka.apache.org/)
@@ -125,7 +127,12 @@ This are implementations/libraries to help write distributed applications which 
 * [Azkaban](https://azkaban.github.io/)
 * [Cascading](http://www.cascading.org/)
 * [Hmake](https://code.google.com/p/hamake/)
-* [Crunch](https://crunch.apache.org/)
+* [Crunch](https://crunch.apache.org/) (Modeled after [FlumeJava](http://pages.cs.wisc.edu/~akella/CS838/F12/838-CloudPapers/FlumeJava.pdf))
+
+#####Comparisons
+  * [Oozie vs Crunch](http://mail-archives.apache.org/mod_mbox/incubator-general/201205.mbox/%3CCAH29n6MPf4Qxb--9Ayv+U9xoJuJC_QRYkqC+ADisy=YkjjV=Vg@mail.gmail.com%3E)
+  * [Oozie vs Azkaban](http://www.quora.com/What-are-the-differences-advantages-disadvantages-of-Azkaban-vs-Oozie) 
+  * [Feature comparison](http://sarveshspn.blogspot.in/2012/02/comparison-of-hadoop-workflow-engines.html)
 
 ##Configuration management 
 * [Chef](http://www.getchef.com/chef/)
