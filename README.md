@@ -27,6 +27,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Mesos](http://mesos.apache.org)
 * [OpenStack](http://www.openstack.org/)
 * [CloudStack](http://cloudstack.apache.org/)
+* [Contrail](http://contrail-project.eu/)
 * [Ganeti](https://code.google.com/p/ganeti/)
 
 ##File Systems
@@ -90,6 +91,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/)
 * [Jubatus](http://jubat.us/en/)
 * [Mahout](https://mahout.apache.org/)
+* [Hama](https://hama.apache.org)
 * [h2o](http://0xdata.com/h2o/)
 * [Oryx](https://github.com/cloudera/oryx) and [Oryx 2.0](https://github.com/OryxProject/oryx)
 
@@ -148,6 +150,8 @@ This are implementations/libraries to help write distributed applications which 
 * [Salt](https://github.com/saltstack/salt)
 * [Ansible](https://github.com/ansible/ansible)
 * [Vagrant](http://www.vagrantup.com/)
+* [Capistrano](http://capistranorb.com/)
+* [Fabric](http://www.fabfile.org/)
 
 ##Search
 * [Lucene+Solr](http://lucene.apache.org/)
@@ -158,5 +162,5 @@ This are implementations/libraries to help write distributed applications which 
 * [Ambari](http://ambari.apache.org/) - Hadoop Deployment + Management 
 * [Hue](http://gethue.com/) - Hadoop Web UI
 * [Bigtop](http://bigtop.apache.org/) - Hadoop Packaging 
-
+* [DataFu](http://datafu.incubator.apache.org/) - Collection of MapReduce lib
 
