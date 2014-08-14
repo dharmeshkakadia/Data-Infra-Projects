@@ -48,91 +48,100 @@ This are implementations/libraries to help write distributed applications which 
 * [Aurora](http://aurora.incubator.apache.org/)
 * [Marathon](https://github.com/mesosphere/marathon)
 * [Cronos](https://github.com/airbnb/chronos)
+* [Fleet](https://github.com/coreos/fleet)
 
 ## MultiCloud/CrossCloud utilities
 * [Fog](http://fog.io/)
 * [Multistack](http://multistack.org/)
 * [jClouds](https://jclouds.apache.org/)
+* [Whirr](https://whirr.apache.org/)
 
 ##Virtualization
-* LXC
-* ZeroVM
-* CoreOS
-* KVM
-* XEN
-* Solaris Zones
-* BSD Jails
+* [LXC](https://linuxcontainers.org/)
+* [ZeroVM](http://www.zerovm.org/)
+* [CoreOS](https://coreos.com/)
+* [KVM](http://www.linux-kvm.org/)
+* [XEN](http://www.xenproject.org/)
+* [Solaris Zones](http://en.wikipedia.org/wiki/Solaris_Containers)
+* [BSD Jails](http://en.wikipedia.org/wiki/FreeBSD_jail)
 
 ##Virtualization++
-* Docker
-* CloudFoundry
-* Redhat Project Atomic
+* [Docker](https://www.docker.com/)
+* [CloudFoundry](http://cloudfoundry.org/)
+* [Redhat Project Atomic](http://www.projectatomic.io/)
 
 ##Generalized Data Processing
-* Hadoop
-* Spark
-* REEF (http://www.reef-project.org/)
-* Flink (http://flink.incubator.apache.org/) (previously know as Stratosphere)
-* Tez (http://tez.apache.org/)
+* [Hadoop](http://hadoop.apache.org/)
+* [Spark](https://spark.apache.org/)
+* [REEF](http://www.reef-project.org/)
+* [Flink](http://flink.incubator.apache.org/) (previously know as Stratosphere)
+* [Tez](http://tez.apache.org/)
 
 ##Largescale Distributed ML
-* MLBase (MLlib)
-* Vowpal Wabbit (https://github.com/JohnLangford/vowpal_wabbit/)
+* [MLBase/MLlib](http://www.mlbase.org/)
+* [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/)
+* [Jubatus](http://jubat.us/en/)
+* [Mahout](https://mahout.apache.org/)
 
 ##pub-sub / messaging 
-* Kafka
-* RabbitMQ
-* ZeroMQ
+* [Kafka](http://kafka.apache.org/)
+* [RabbitMQ](http://www.rabbitmq.com/)
+* [ZeroMQ](http://zeromq.org/)
+* [ActiveMQ](http://activemq.apache.org/)
+* [hornetq](http://hornetq.jboss.org/)
 
 ##Data Ingest
-* Sqoop
-* Flume
+* [Sqoop](http://sqoop.apache.org/)
+* [Flume](http://flume.apache.org/)
 
 
 ##Graph Storing and/or Processing
-* GraphLab
-* Giraph
-* Neo4j
+* [GraphLab](http://graphlab.org/)
+* [Giraph](http://giraph.apache.org/)
+* [Neo4j](http://www.neo4j.org/)
 
 ## SQL Engines
-* Hive
-* Impala
-* Shark
-* Spark-SQL
-* Tajo (http://tajo.incubator.apache.org/)
+* [Hive](https://hive.apache.org/)
+* [Impala](http://impala.io/)
+* [Shark](http://shark.cs.berkeley.edu/)
+* [Spark-SQL](https://spark.apache.org/sql/)
+* [Tajo](http://tajo.incubator.apache.org/)
 
 ##RealTime Processing (Time-constrained Processing)
 
 ##Stream Processing
-* Storm
-* Spark Streaming
-* Samza
-* Borealis (http://cs.brown.edu/research/borealis/public/)
+* [Storm](https://storm.incubator.apache.org/)
+* [Spark Streaming](https://spark.apache.org/streaming/)
+* [Samza](http://samza.incubator.apache.org/)
+* [Borealis](http://cs.brown.edu/research/borealis/public/)
 
 ##Security
 
 ##Performance Analysis
 
 ##Workflow engines/DAG-executors/Pipelines
-* Oozie
-* Luigi (https://github.com/spotify/luigi)
-* Azkaban 
-* Cascading 
-* Hmake (https://code.google.com/p/hamake/)
-* Crunch (https://crunch.apache.org/)
+* [Oozie](http://oozie.apache.org/)
+* [Luigi](https://github.com/spotify/luigi)
+* [Azkaban](https://azkaban.github.io/)
+* [Cascading](http://www.cascading.org/)
+* [Hmake](https://code.google.com/p/hamake/)
+* [Crunch](https://crunch.apache.org/)
 
 ##Configuration management 
-* Chef
-* Puppet
-* Salt
-* Ansible
-* Vagrant
+* [Chef](http://www.getchef.com/chef/)
+* [Puppet](http://puppetlabs.com/puppet)
+* [Salt](https://github.com/saltstack/salt)
+* [Ansible](https://github.com/ansible/ansible)
+* [Vagrant](http://www.vagrantup.com/)
 
 ##Search
-* Lucene/Solr
-* ElasticSearch
+* [Lucene+Solr](http://lucene.apache.org/)
+* [ElasticSearch](http://www.elasticsearch.org/)
 
 ## others
-* Nutch - web crawler
+* [Nutch](http://nutch.apache.org/) - web crawler
+* [Ambari](http://ambari.apache.org/) - Hadoop Deployment + Management 
+* [Hue](http://gethue.com/) - Hadoop Web UI
+* [Bigtop](http://bigtop.apache.org/) - Hadoop Packaging 
 
 
