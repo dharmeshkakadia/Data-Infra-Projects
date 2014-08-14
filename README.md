@@ -51,6 +51,8 @@ This are implementations/libraries to help write distributed applications which 
 * [Marathon](https://github.com/mesosphere/marathon)
 * [Cronos](https://github.com/airbnb/chronos)
 * [Fleet](https://github.com/coreos/fleet)
+* [Helix](http://helix.apache.org/)
+* [Slider](http://slider.incubator.apache.org/)
 
 ## MultiCloud/CrossCloud utilities
 * [Fog](http://fog.io/)
@@ -163,4 +165,5 @@ This are implementations/libraries to help write distributed applications which 
 * [Hue](http://gethue.com/) - Hadoop Web UI
 * [Bigtop](http://bigtop.apache.org/) - Hadoop Packaging 
 * [DataFu](http://datafu.incubator.apache.org/) - Collection of MapReduce lib
+* [Twill](http://twill.incubator.apache.org/) (Previsously known as Weave) - YARN application writing lib
 
