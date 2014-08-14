@@ -40,6 +40,9 @@ This are implementations/libraries to help write distributed applications which 
 1. Nagios
 2. Ganglia
 
+## Logging/Monitoring
+1. Chukwa (https://chukwa.apache.org/)
+2. Netflix Suro (https://github.com/Netflix/suro)
 
 ##Infrastructure Helpers
 1. Aurora
