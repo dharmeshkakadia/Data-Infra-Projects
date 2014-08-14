@@ -114,6 +114,7 @@ This are implementations/libraries to help write distributed applications which 
 3. Azkaban 
 4. Cascading 
 5. Hmake (https://code.google.com/p/hamake/)
+6. Crunch (https://crunch.apache.org/)
 
 ##Configuration management 
 1. Chef
