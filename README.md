@@ -69,6 +69,7 @@ This are implementations/libraries to help write distributed applications which 
 2. Spark
 3. REEF (http://www.reef-project.org/)
 4. Flink (http://flink.incubator.apache.org/) (previously know as Stratosphere)
+5. Tez (http://tez.apache.org/)
 
 ##Largescale Distributed ML
 1. MLBase (MLlib)
@@ -91,10 +92,9 @@ This are implementations/libraries to help write distributed applications which 
 
 ## SQL Engines
 1. Hive
-2. Tez
-3. Impala
-4. Shark
-5. Tajo (http://tajo.incubator.apache.org/)
+2. Impala
+3. Shark
+4. Tajo (http://tajo.incubator.apache.org/)
 
 ##RealTime Processing (Time-constrained Processing)
 
