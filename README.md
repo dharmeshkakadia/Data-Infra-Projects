@@ -17,6 +17,7 @@ Add ~~links and~~ licenses.
 This are implementations/libraries to help write distributed applications which require some form of coordination.
 
 * [ZooKeeper](zookeeper.apache.org)
+* [Raft](http://raftconsensus.github.io/)
 * [etcd](https://github.com/coreos/etcd)
 * [Serf](http://www.serfdom.io/)
 * [Doozer](https://github.com/ha/doozerd)
@@ -76,6 +77,13 @@ This are implementations/libraries to help write distributed applications which 
 * [REEF](http://www.reef-project.org/)
 * [Flink](http://flink.incubator.apache.org/) (previously know as Stratosphere)
 * [Tez](http://tez.apache.org/)
+* [Dryad](http://research.microsoft.com/en-us/projects/dryad/)
+* [Hyracks](https://code.google.com/p/hyracks/)
+* [Naiad](http://research.microsoft.com/en-us/projects/naiad/)
+
+#####comparisons
+* [Tez vs Dryad](http://yhemanth.wordpress.com/2013/11/07/comparing-apache-tez-and-microsoft-dryad/)
+* Hadoop vs Spark - Too many differences, no good link.
 
 ##Largescale Distributed ML
 * [MLBase/MLlib](http://www.mlbase.org/)
