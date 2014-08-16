@@ -178,4 +178,5 @@ This are implementations/libraries to help write distributed applications which 
 * [Bigtop](http://bigtop.apache.org/) - Hadoop Packaging 
 * [DataFu](http://datafu.incubator.apache.org/) - Collection of MapReduce lib
 * [Twill](http://twill.incubator.apache.org/) (Previsously known as Weave) - YARN application writing lib
+* [CoreOS](https://coreos.com)
 
