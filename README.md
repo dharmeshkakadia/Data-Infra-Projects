@@ -146,7 +146,7 @@ This are implementations/libraries to help write distributed applications which 
   * [Oozie vs Azkaban](http://www.quora.com/What-are-the-differences-advantages-disadvantages-of-Azkaban-vs-Oozie) 
   * [Feature comparison](http://sarveshspn.blogspot.in/2012/02/comparison-of-hadoop-workflow-engines.html)
 
-##Configuration management 
+##Configuration Management 
 * [Chef](http://www.getchef.com/chef/)
 * [Puppet](http://puppetlabs.com/puppet)
 * [Salt](https://github.com/saltstack/salt)
@@ -154,6 +154,18 @@ This are implementations/libraries to help write distributed applications which 
 * [Vagrant](http://www.vagrantup.com/)
 * [Capistrano](http://capistranorb.com/)
 * [Fabric](http://www.fabfile.org/)
+
+##Service Discovery
+* [etcd](https://github.com/coreos/etcd)
+* [confd](https://github.com/kelseyhightower/confd)
+* [Vulcand](https://github.com/mailgun/vulcand)
+* [Frontrunner](https://github.com/Wizcorp/frontrunner)
+* [Consul](https://github.com/hashicorp/consul)
+* [SkyDNS](https://github.com/skynetservices/skydns)
+* [Synapse](https://github.com/airbnb/synapse) - part of SmartStack combined with [Nerve](https://github.com/airbnb/nerve)
+
+#####Comparison
+* [Consul vs others](http://www.consul.io/intro/vs/)
 
 ##Search
 * [Lucene+Solr](http://lucene.apache.org/)
