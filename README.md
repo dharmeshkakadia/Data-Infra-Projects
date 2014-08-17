@@ -11,7 +11,6 @@ Add ~~links and~~ licenses.
 * [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
 * [Bulk Synchronous Parallel - BSP](http://en.wikipedia.org/wiki/Bulk_synchronous_parallel)
 
-
 ##Distributed Coordination
 
 This are implementations/libraries to help write distributed applications which require some form of coordination.
@@ -29,6 +28,7 @@ This are implementations/libraries to help write distributed applications which 
 * [CloudStack](http://cloudstack.apache.org/)
 * [Contrail](http://contrail-project.eu/)
 * [Ganeti](https://code.google.com/p/ganeti/)
+* [CoreOS](https://coreos.com)
 
 ##File Systems
 * [HDFS](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html)
@@ -45,6 +45,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Ganglia](http://ganglia.sourceforge.net/)
 * [Chukwa](https://chukwa.apache.org/)
 * [Netflix Suro](https://github.com/Netflix/suro)
+* [Zabbix](https://www.zabbix.org/wiki)
 
 ##Infrastructure Helpers
 * [Aurora](http://aurora.incubator.apache.org/)
@@ -63,7 +64,6 @@ This are implementations/libraries to help write distributed applications which 
 ##Virtualization
 * [LXC](https://linuxcontainers.org/)
 * [ZeroVM](http://www.zerovm.org/)
-* [CoreOS](https://coreos.com/)
 * [KVM](http://www.linux-kvm.org/)
 * [XEN](http://www.xenproject.org/)
 * [Solaris Zones](http://en.wikipedia.org/wiki/Solaris_Containers)
@@ -154,6 +154,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Vagrant](http://www.vagrantup.com/)
 * [Capistrano](http://capistranorb.com/)
 * [Fabric](http://www.fabfile.org/)
+* [Bosh](https://github.com/cloudfoundry/bosh)
 
 ##Service Discovery
 * [etcd](https://github.com/coreos/etcd)
@@ -178,5 +179,4 @@ This are implementations/libraries to help write distributed applications which 
 * [Bigtop](http://bigtop.apache.org/) - Hadoop Packaging 
 * [DataFu](http://datafu.incubator.apache.org/) - Collection of MapReduce lib
 * [Twill](http://twill.incubator.apache.org/) (Previsously known as Weave) - YARN application writing lib
-* [CoreOS](https://coreos.com)
 
