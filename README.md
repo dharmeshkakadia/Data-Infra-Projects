@@ -3,6 +3,8 @@ Data-Infra-Projects
 
 This is an attempt to list out all the interesting projects.
 
+It is intended for anyone designing modern large scale architectures and need to choose tools/technoglogies/frameworks. The purpose is to help in making that choices with resources like comparisions/use-cases/features/maturity or really anything that helps in making an informed decision.
+
 TODO:
 Add ~~links and~~ licenses. 
 
