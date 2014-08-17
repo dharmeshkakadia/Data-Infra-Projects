@@ -11,7 +11,6 @@ Add links and licenses.
 2. MapReduce
 3. BSP
 
-
 ##Distributed Coordination
 
 This are implementations/libraries to help write distributed applications which require some form of coordination.
@@ -27,6 +26,7 @@ This are implementations/libraries to help write distributed applications which 
 3. OpenStack
 4. CloudStack
 5. Ganeti
+6. [CoreOS](https://coreos.com)
 
 ##File Systems
 1. HDFS
@@ -39,21 +39,19 @@ This are implementations/libraries to help write distributed applications which 
 ##Infrastrcuture Monitoring
 1. Nagios
 2. Ganglia
-
+3. [Zabbix](https://www.zabbix.org/wiki/Main_Page)
 
 ##Infrastructure Helpers
 1. Aurora
 2. Marathon
 3. Cronos
 
-
 ##Virtualization
 1. LXC
 2. ZeroVM
-3. CoreOS
-4. KVM
-5. XEN
-6. Solaris Zones
+3. KVM
+4. XEN
+5. Solaris Zones
 
 ##Virtualization++
 1. Docker
@@ -77,7 +75,6 @@ This are implementations/libraries to help write distributed applications which 
 ##Data Ingest
 1. Sqoop
 2. Flume
-
 
 ##Graph Processing
 1. GraphLab
@@ -115,6 +112,7 @@ This are implementations/libraries to help write distributed applications which 
 2. Puppet
 3. Salt
 4. Ansible
+5. [Bosh](https://github.com/cloudfoundry/bosh)
 
 ##Search
 1. Lucene/Solr
