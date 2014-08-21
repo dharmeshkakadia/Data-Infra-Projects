@@ -13,7 +13,7 @@ Add ~~links and~~ licenses.
 * [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
 * [Bulk Synchronous Parallel - BSP](http://en.wikipedia.org/wiki/Bulk_synchronous_parallel)
 * [CRDT](http://hal.upmc.fr/docs/00/55/55/88/PDF/techreport.pdf)
-* [Merkle Treef](http://en.wikipedia.org/wiki/Merkle_tree)
+* [Merkle Tree](http://en.wikipedia.org/wiki/Merkle_tree)
 
 ##Distributed Coordination
 
@@ -119,14 +119,13 @@ This are implementations/libraries to help write distributed applications which 
 * [Giraph](http://giraph.apache.org/)
 * [Neo4j](http://www.neo4j.org/)
 
-## SQL Engines
+##SQL Engines
 * [Hive](https://hive.apache.org/)
 * [Impala](http://impala.io/)
 * [Shark](http://shark.cs.berkeley.edu/)
 * [Spark-SQL](https://spark.apache.org/sql/)
 * [Tajo](http://tajo.incubator.apache.org/)
 
-##RealTime Processing (Time-constrained Processing)
 
 ##Stream Processing
 * [Storm](https://storm.incubator.apache.org/)
