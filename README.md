@@ -13,6 +13,7 @@ Add ~~links and~~ licenses.
 * [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
 * [Bulk Synchronous Parallel - BSP](http://en.wikipedia.org/wiki/Bulk_synchronous_parallel)
 * [CRDT](http://hal.upmc.fr/docs/00/55/55/88/PDF/techreport.pdf)
+* [Merkle Treef](http://en.wikipedia.org/wiki/Merkle_tree)
 
 ##Distributed Coordination
 
@@ -49,6 +50,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Chukwa](https://chukwa.apache.org/)
 * [Netflix Suro](https://github.com/Netflix/suro)
 * [Zabbix](https://www.zabbix.org/wiki)
+* [Riemann](http://riemann.io/)
 
 ##Infrastructure Helpers
 * [Aurora](http://aurora.incubator.apache.org/)
@@ -170,6 +172,10 @@ This are implementations/libraries to help write distributed applications which 
 
 #####Comparison
 * [Consul vs others](http://www.consul.io/intro/vs/)
+
+##Testing
+* [Jespen](https://github.com/aphyr/jepsen)
+* [Simian Army](https://github.com/Netflix/SimianArmy)
 
 ##Search
 * [Lucene+Solr](http://lucene.apache.org/)
