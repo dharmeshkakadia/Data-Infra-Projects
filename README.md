@@ -12,6 +12,7 @@ Add ~~links and~~ licenses.
 * [RDD](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
 * [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
 * [Bulk Synchronous Parallel - BSP](http://en.wikipedia.org/wiki/Bulk_synchronous_parallel)
+* [CRDT](http://hal.upmc.fr/docs/00/55/55/88/PDF/techreport.pdf)
 
 ##Distributed Coordination
 
@@ -181,4 +182,5 @@ This are implementations/libraries to help write distributed applications which 
 * [Bigtop](http://bigtop.apache.org/) - Hadoop Packaging 
 * [DataFu](http://datafu.incubator.apache.org/) - Collection of MapReduce lib
 * [Twill](http://twill.incubator.apache.org/) (Previsously known as Weave) - YARN application writing lib
+* [Skuld](https://github.com/Factual/skuld)
 
