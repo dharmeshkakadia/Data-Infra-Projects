@@ -51,6 +51,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Netflix Suro](https://github.com/Netflix/suro)
 * [Zabbix](https://www.zabbix.org/wiki)
 * [Riemann](http://riemann.io/)
+* [Servo](https://github.com/Netflix/servo)
 
 ##Infrastructure Helpers
 * [Aurora](http://aurora.incubator.apache.org/)
@@ -113,7 +114,6 @@ This are implementations/libraries to help write distributed applications which 
 * [Sqoop](http://sqoop.apache.org/)
 * [Flume](http://flume.apache.org/)
 
-
 ##Graph Storing and/or Processing
 * [GraphLab](http://graphlab.org/)
 * [Giraph](http://giraph.apache.org/)
@@ -134,6 +134,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Borealis](http://cs.brown.edu/research/borealis/public/)
 
 ##Security
+* [Scumblr](https://github.com/Netflix/Scumblr)
 
 ##Performance Analysis
 
@@ -176,6 +177,23 @@ This are implementations/libraries to help write distributed applications which 
 * [Jespen](https://github.com/aphyr/jepsen)
 * [Simian Army](https://github.com/Netflix/SimianArmy)
 
+##Visualization
+* [White Elephent](https://github.com/linkedin/white-elephant)
+* [Ambrose](https://github.com/twitter/ambrose)
+* [Lipstick](https://github.com/Netflix/Lipstick)
+* [Hue](http://gethue.com/) - Hadoop Web UI
+
+##Libraries
+* [Zoie](https://github.com/senseidb/zoie)
+* [Norbert](https://github.com/rhavyn/norbert) - cluster manager and networking layer built on top of Zookeeper.
+* [Okapi](https://github.com/grafos-ml/okapi) - Large-scale ML & graph analytics on Giraph
+* [Scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
+* [SummingBird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm
+* [Curator](http://curator.apache.org/) - set of Java libraries that make using Apache ZooKeeper much easier
+* [Turbine](https://github.com/Netflix/Turbine) - Low latency high throughput aggregator for real time streams
+* [DataFu](http://datafu.incubator.apache.org/) - Collection of MapReduce lib
+* [Twill](http://twill.incubator.apache.org/) (Previsously known as Weave) - YARN application writing lib
+
 ##Search
 * [Lucene+Solr](http://lucene.apache.org/)
 * [ElasticSearch](http://www.elasticsearch.org/)
@@ -183,9 +201,8 @@ This are implementations/libraries to help write distributed applications which 
 ## others
 * [Nutch](http://nutch.apache.org/) - web crawler
 * [Ambari](http://ambari.apache.org/) - Hadoop Deployment + Management 
-* [Hue](http://gethue.com/) - Hadoop Web UI
 * [Bigtop](http://bigtop.apache.org/) - Hadoop Packaging 
-* [DataFu](http://datafu.incubator.apache.org/) - Collection of MapReduce lib
-* [Twill](http://twill.incubator.apache.org/) (Previsously known as Weave) - YARN application writing lib
 * [Skuld](https://github.com/Factual/skuld)
+* [Camus](https://github.com/linkedin/camus) - LinkedIn's Kafka to HDFS pipeline.
+* [Kiji](http://www.kiji.org/) - collect, analyze and serve data in real time on Apache Hadoop and HBase
 
