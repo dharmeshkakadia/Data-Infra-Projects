@@ -14,6 +14,7 @@ Add ~~links and~~ licenses.
 * [Bulk Synchronous Parallel - BSP](http://en.wikipedia.org/wiki/Bulk_synchronous_parallel)
 * [CRDT](http://hal.upmc.fr/docs/00/55/55/88/PDF/techreport.pdf)
 * [Merkle Tree](http://en.wikipedia.org/wiki/Merkle_tree)
+* [DHT](http://en.wikipedia.org/wiki/Distributed_hash_table)
 
 ##Distributed Coordination
 
@@ -79,6 +80,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Docker](https://www.docker.com/)
 * [CloudFoundry](http://cloudfoundry.org/)
 * [Redhat Project Atomic](http://www.projectatomic.io/)
+* [OSv](http://osv.io/)
 
 ##Generalized Data Processing
 * [Hadoop](http://hadoop.apache.org/)
@@ -118,6 +120,7 @@ This are implementations/libraries to help write distributed applications which 
 * [GraphLab](http://graphlab.org/)
 * [Giraph](http://giraph.apache.org/)
 * [Neo4j](http://www.neo4j.org/)
+* [Cassovary](https://github.com/twitter/cassovary)
 
 ##SQL Engines
 * [Hive](https://hive.apache.org/)
@@ -125,6 +128,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Shark](http://shark.cs.berkeley.edu/)
 * [Spark-SQL](https://spark.apache.org/sql/)
 * [Tajo](http://tajo.incubator.apache.org/)
+* [Presto](http://prestodb.io/)
 
 
 ##Stream Processing
