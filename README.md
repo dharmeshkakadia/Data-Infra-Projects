@@ -34,6 +34,12 @@ This are implementations/libraries to help write distributed applications which 
 * [Contrail](http://contrail-project.eu/)
 * [Ganeti](https://code.google.com/p/ganeti/)
 * [CoreOS](https://coreos.com)
+* [Kubernetes](https://github.com/GoogleCloudPlatform/kubernetes)
+
+#####comparisons
+* [Serf vs *](http://www.serfdom.io/intro/vs-other-sw.html)
+* [Serf vs Mesos](https://groups.google.com/forum/#!topic/serfdom/zFEiXgeGABc)
+* [CoreOs-Fleet vs Mesos/YARN](https://groups.google.com/forum/#!msg/coreos-dev/nHK8irdnmM0/BSwZpV1SNisJ)
 
 ##File Systems
 * [HDFS](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html)
