@@ -192,6 +192,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Ambrose](https://github.com/twitter/ambrose)
 * [Lipstick](https://github.com/Netflix/Lipstick)
 * [Hue](http://gethue.com/) - Hadoop Web UI
+* [Inviso](https://github.com/Netflix/inviso)
 
 ##Libraries
 * [Zoie](https://github.com/senseidb/zoie)
