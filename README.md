@@ -31,7 +31,6 @@ This are implementations/libraries to help write distributed applications which 
 * [Mesos](http://mesos.apache.org)
 * [OpenStack](http://www.openstack.org/)
 * [CloudStack](http://cloudstack.apache.org/)
-* [Contrail](http://contrail-project.eu/)
 * [Ganeti](https://code.google.com/p/ganeti/)
 * [CoreOS](https://coreos.com)
 * [Kubernetes](https://github.com/GoogleCloudPlatform/kubernetes)
