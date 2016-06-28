@@ -130,11 +130,9 @@ This are implementations/libraries to help write distributed applications which 
 ##SQL Engines
 * [Hive](https://hive.apache.org/)
 * [Impala](http://impala.io/)
-* [Shark](http://shark.cs.berkeley.edu/)
 * [Spark-SQL](https://spark.apache.org/sql/)
 * [Tajo](http://tajo.incubator.apache.org/)
 * [Presto](http://prestodb.io/)
-
 
 ##Stream Processing
 * [Storm](https://storm.incubator.apache.org/)
@@ -146,7 +144,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Scumblr](https://github.com/Netflix/Scumblr)
 
 ##Performance Analysis
-
+ 
 ##Workflow engines/DAG-executors/Pipelines
 * [Oozie](http://oozie.apache.org/)
 * [Luigi](https://github.com/spotify/luigi)
@@ -192,6 +190,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Lipstick](https://github.com/Netflix/Lipstick)
 * [Hue](http://gethue.com/) - Hadoop Web UI
 * [Inviso](https://github.com/Netflix/inviso)
+* [Timberlake](https://github.com/stripe/timberlake)
 
 ##Libraries
 * [Zoie](https://github.com/senseidb/zoie)
