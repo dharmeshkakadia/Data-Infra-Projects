@@ -9,6 +9,7 @@ It is intended for anyone designing modern large scale architectures and need to
 ## Abstractions
 * [Spark RDD](https://spark.apache.org/docs/latest/rdd-programming-guide.html#resilient-distributed-datasets-rdds)
 * [Spark Dataframe](https://spark.apache.org/docs/latest/sql-programming-guide.html#datasets-and-dataframes)
+* [DataFlow](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)
 * [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
 * [Bulk Synchronous Parallel - BSP](http://en.wikipedia.org/wiki/Bulk_synchronous_parallel)
 * [CRDT](http://hal.upmc.fr/docs/00/55/55/88/PDF/techreport.pdf)
