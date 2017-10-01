@@ -96,6 +96,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Dryad](http://research.microsoft.com/en-us/projects/dryad/)
 * [Hyracks](https://code.google.com/p/hyracks/)
 * [Naiad](http://research.microsoft.com/en-us/projects/naiad/)
+* [Vespa](https://github.com/vespa-engine/vespa) 
 
 ### comparisons
 * [Tez vs Dryad](http://yhemanth.wordpress.com/2013/11/07/comparing-apache-tez-and-microsoft-dryad/)
