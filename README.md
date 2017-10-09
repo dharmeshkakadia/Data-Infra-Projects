@@ -34,6 +34,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Ganeti](https://code.google.com/p/ganeti/)
 * [CoreOS](https://coreos.com)
 * [Kubernetes](https://github.com/kubernetes/kubernetes)
+* [Eucalyptus](https://github.com/eucalyptus/eucalyptus)
 
 ### comparisons
 * [Serf vs *](http://www.serfdom.io/intro/vs-other-sw.html)
@@ -46,9 +47,10 @@ This are implementations/libraries to help write distributed applications which 
 * [Ceph](https://github.com/ceph/ceph)
 * [QFS](http://quantcast.github.io/qfs/)
 
-## Distribtued Databases
+## Distributed Databases
 * [Swift](https://github.com/openstack/swift)
 * [Riak](https://github.com/basho/riak)
+* [Pinot](https://github.com/linkedin/pinot)
 
 ## Infrastrcuture Logging/Monitoring
 * [Nagios](http://www.nagios.org/)
@@ -121,6 +123,7 @@ This are implementations/libraries to help write distributed applications which 
 ## Data Ingest
 * [Sqoop](http://sqoop.apache.org/)
 * [Flume](http://flume.apache.org/)
+* [Gobblin](https://github.com/apache/incubator-gobblin)
 
 ## Graph Storing and/or Processing
 * [Turi](https://turi.com/) (previously knowns as GraphLab)
@@ -145,6 +148,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Scumblr](https://github.com/Netflix/Scumblr)
 
 ## Performance Analysis
+* [Dr. Elephant](https://github.com/linkedin/dr-elephant)
  
 ## Workflow engines/DAG-executors/Pipelines
 * [Oozie](http://oozie.apache.org/)
