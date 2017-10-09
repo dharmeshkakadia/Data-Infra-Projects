@@ -49,6 +49,7 @@ This are implementations/libraries to help write distributed applications which 
 ## Distribtued Databases
 * [Swift](https://github.com/openstack/swift)
 * [Riak](https://github.com/basho/riak)
+* [Pinot](https://github.com/linkedin/pinot)
 
 ## Infrastrcuture Logging/Monitoring
 * [Nagios](http://www.nagios.org/)
