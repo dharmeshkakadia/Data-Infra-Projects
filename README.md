@@ -34,6 +34,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Ganeti](https://code.google.com/p/ganeti/)
 * [CoreOS](https://coreos.com)
 * [Kubernetes](https://github.com/kubernetes/kubernetes)
+* [Eucalyptus](https://github.com/eucalyptus/eucalyptus)
 
 ### comparisons
 * [Serf vs *](http://www.serfdom.io/intro/vs-other-sw.html)
