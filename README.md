@@ -122,6 +122,7 @@ This are implementations/libraries to help write distributed applications which 
 ## Data Ingest
 * [Sqoop](http://sqoop.apache.org/)
 * [Flume](http://flume.apache.org/)
+* [Gobblin](https://github.com/apache/incubator-gobblin)
 
 ## Graph Storing and/or Processing
 * [Turi](https://turi.com/) (previously knowns as GraphLab)
