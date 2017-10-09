@@ -47,7 +47,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Ceph](https://github.com/ceph/ceph)
 * [QFS](http://quantcast.github.io/qfs/)
 
-## Distribtued Databases
+## Distributed Databases
 * [Swift](https://github.com/openstack/swift)
 * [Riak](https://github.com/basho/riak)
 * [Pinot](https://github.com/linkedin/pinot)
