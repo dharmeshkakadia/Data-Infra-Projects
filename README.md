@@ -147,6 +147,7 @@ This are implementations/libraries to help write distributed applications which 
 * [Scumblr](https://github.com/Netflix/Scumblr)
 
 ## Performance Analysis
+* [Dr. Elephant](https://github.com/linkedin/dr-elephant)
  
 ## Workflow engines/DAG-executors/Pipelines
 * [Oozie](http://oozie.apache.org/)
