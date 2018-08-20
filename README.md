@@ -125,6 +125,9 @@ This are implementations/libraries to help write distributed applications which 
 * [Flume](http://flume.apache.org/)
 * [Gobblin](https://github.com/apache/incubator-gobblin)
 
+## Data change management
+* [SpinalTap](https://github.com/airbnb/SpinalTap)
+
 ## Graph Storing and/or Processing
 * [Turi](https://turi.com/) (previously knowns as GraphLab)
 * [Giraph](http://giraph.apache.org/)
