@@ -22,7 +22,6 @@ This are implementations/libraries to help write distributed applications which 
 
 * [ZooKeeper](zookeeper.apache.org)
 * [Raft](http://raftconsensus.github.io/)
-* [etcd](https://github.com/coreos/etcd)
 * [Serf](http://www.serfdom.io/)
 * [Doozer](https://github.com/ha/doozerd)
 
